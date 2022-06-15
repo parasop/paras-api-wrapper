@@ -32,8 +32,11 @@
 
 https://api.parasdocs.tech
 
+### An example discord bot with this package
+https://github.com/parasop/paras-api-example
+
+
 ### Small code snippet examples
-> Initializing the library (Using Connector Discord.JS)
 ```js
 const { Base } = require('Paras-api-wrapper');
 const api = new Base();
