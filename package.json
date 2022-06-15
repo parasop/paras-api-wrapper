@@ -1,5 +1,13 @@
 {
+  "name": "paras-api-wrapper",
+  "version": "1.0.3",
+  "description": "An API wrapper for the PARAS API to make your life easier while using it!",
+  "main": "index.js",
+  "scripts": {},
+  "author": "PARAS",
+  "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "keywords": ["paras-api-wrapper","discord","lyrics"]
 }
